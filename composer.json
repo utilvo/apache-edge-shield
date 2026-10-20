@@ -1,0 +1,23 @@
+{
+  "name": "utilvo/apache-edge-shield",
+  "description": "Apache 2.4 mod_authz_core CIDR radix-tree, mod_remoteip & .htaccess cloud scraper firewall powered by Utilvo EdgeShield.",
+  "type": "library",
+  "homepage": "https://utilvo.com/edge-shield",
+  "license": "MIT",
+  "keywords": [
+    "apache",
+    "htaccess",
+    "litespeed",
+    "cpanel",
+    "waf",
+    "bot-protection",
+    "cidr",
+    "asn",
+    "firewall",
+    "edgeshield"
+  ],
+  "support": {
+    "docs": "https://utilvo.com/edge-shield",
+    "source": "https://github.com/utilvo/apache-edge-shield"
+  }
+}
